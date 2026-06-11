@@ -1,0 +1,11 @@
+Iteration,Model,epoch,loss,Clean Acc (%)
+iter1,PGD Adversarial Training,1,0.6113725604533132,97.27
+iter1,PGD Adversarial Training,2,0.22723069761607692,98.17
+iter1,PGD Adversarial Training,3,0.18074041442163208,98.46
+iter1,PGD Adversarial Training,4,0.15489246841591559,98.67
+iter1,PGD Adversarial Training,5,0.13076846853597587,98.79
+iter1,PGD Adversarial Training,6,0.12264632170737934,98.9
+iter1,PGD Adversarial Training,7,0.11803188536371757,99.01
+iter1,PGD Adversarial Training,8,0.11101662904532479,99.0
+iter1,PGD Adversarial Training,9,0.10045808555284289,98.99
+iter1,PGD Adversarial Training,10,0.09875210701053076,99.08
