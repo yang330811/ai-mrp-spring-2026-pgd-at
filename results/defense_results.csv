@@ -1,3 +1,0 @@
-Model,Clean Acc (%),Robust Acc FGSM (%),Robust Acc PGD (%),ASR FGSM (%),ASR PGD (%)
-Standard CNN,98.84,4.65,0.0,95.22,100.0
-PGD Adversarial Training,99.03,62.46,16.37,36.52,84.24
