@@ -1,3 +1,4 @@
 Iteration,Label,epsilon,pgd_epochs,train_steps,train_alpha,eval_steps,Clean Acc (%),Robust Acc FGSM (%),Robust Acc PGD (%),ASR FGSM (%),ASR PGD (%)
-iter1,"Iter 1: default (7 steps, 10 ep)",0.3,10,7,0.01,40,99.08,60.55,6.56,38.67,93.54
-iter2,"Iter 2: stronger (20 steps, 20 ep)",0.3,20,20,0.03,40,94.77,86.91,80.04,6.24,13.76
+iter1,"Iter 1: default (7 steps, 10 ep)",0.3,10,7,0.01,40,99.08,60.55,6.64,38.67,93.58
+iter2,"Iter 2: stronger (20 steps, 20 ep)",0.3,20,20,0.03,40,94.77,86.91,80.16,6.24,12.95
+iter3,"Iter 3: lower eps=0.2 (20 steps, 20 ep)",0.2,20,20,0.02,40,98.7,93.79,91.45,4.38,6.49

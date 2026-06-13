@@ -1,0 +1,29 @@
+Iteration,Epsilon,Model,Attack,Robust Acc (%)
+iter3,0.0,Standard CNN,FGSM,99.05
+iter3,0.0,Standard CNN,PGD,99.05
+iter3,0.05,Standard CNN,FGSM,93.83
+iter3,0.05,Standard CNN,PGD,92.97
+iter3,0.1,Standard CNN,FGSM,81.45
+iter3,0.1,Standard CNN,PGD,68.16
+iter3,0.15,Standard CNN,FGSM,56.88
+iter3,0.15,Standard CNN,PGD,16.17
+iter3,0.2,Standard CNN,FGSM,29.61
+iter3,0.2,Standard CNN,PGD,0.66
+iter3,0.25,Standard CNN,FGSM,12.19
+iter3,0.25,Standard CNN,PGD,0.0
+iter3,0.3,Standard CNN,FGSM,5.35
+iter3,0.3,Standard CNN,PGD,0.0
+iter3,0.0,PGD Adversarial Training,FGSM,98.7
+iter3,0.0,PGD Adversarial Training,PGD,98.7
+iter3,0.05,PGD Adversarial Training,FGSM,97.07
+iter3,0.05,PGD Adversarial Training,PGD,96.99
+iter3,0.1,PGD Adversarial Training,FGSM,96.25
+iter3,0.1,PGD Adversarial Training,PGD,95.98
+iter3,0.15,PGD Adversarial Training,FGSM,95.08
+iter3,0.15,PGD Adversarial Training,PGD,94.06
+iter3,0.2,PGD Adversarial Training,FGSM,93.79
+iter3,0.2,PGD Adversarial Training,PGD,91.72
+iter3,0.25,PGD Adversarial Training,FGSM,91.17
+iter3,0.25,PGD Adversarial Training,PGD,72.23
+iter3,0.3,PGD Adversarial Training,FGSM,85.94
+iter3,0.3,PGD Adversarial Training,PGD,14.84
